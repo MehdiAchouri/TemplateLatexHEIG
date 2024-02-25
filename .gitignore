@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.nlo
+*.out
+*.toc
+*.pytxcode
+*.pytxmcr
+*.synctex.gz
+*.listing
+pythontex-files-main/
