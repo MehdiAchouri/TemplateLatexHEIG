@@ -57,7 +57,7 @@
 
 \begin{center}
     \advance\leftskip+1.7cm
-	\includegraphics[width=0.4\textwidth]{images/LogoTitre.png}\par\vspace{1cm} %Insertion du logo
+	\includegraphics[width=0.4\textwidth]{logos/LogoTitre.png}\par\vspace{1cm} %Insertion du logo
 \end{center}
 
  \centering %Centraliser le contenu
